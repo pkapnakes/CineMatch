@@ -1,6 +1,6 @@
-package com.cinematch.cinematch.repository;
+package com.cinematch.repository;
 
-import com.cinematch.cinematch.entity.Movie;
+import com.cinematch.entity.Movie;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
