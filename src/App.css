@@ -1,0 +1,19 @@
+/* Κάνει το background όλης της σελίδας μαύρο */
+body {
+  margin: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+/* Στυλ για το κεντρικό περιεχόμενο */
+.App {
+  min-height: 100vh;
+}
+
+/* Αφαιρούμε όλα τα default styles του create-react-app */
+.App-header,
+.App-logo,
+.App-link {
+  all: unset;
+}
